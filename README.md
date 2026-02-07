@@ -60,10 +60,3 @@ We are dedicated to improving the user experience. Our current focus includes:
 
 * **Lyrics Provider**: Powered by [LRCLIB](https://lrclib.net/).
 * **Built With**: PySide6, `aiohttp`, and `winrt`.
-### How to use this
-
-1. Create a file named `README.md` in your project folder.
-2. Paste the content above.
-3. Replace `yourusername/repo` with your actual GitHub path.
-
-Would you like me to help you write a **GitHub Action** script so your executable is automatically built and uploaded every time you push new code?
